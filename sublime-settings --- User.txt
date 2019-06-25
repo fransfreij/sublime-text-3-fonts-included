@@ -1,0 +1,10 @@
+{
+	"font_face": "Source Code Pro",
+
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+
+	"update_check": false
+}
