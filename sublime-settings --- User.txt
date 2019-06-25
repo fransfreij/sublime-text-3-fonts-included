@@ -7,5 +7,6 @@
 		"Vintage"
 	],
 
-	"update_check": false
+	"update_check": false,
+	"save_on_focus_lost": true
 }
