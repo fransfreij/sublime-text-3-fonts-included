@@ -8,5 +8,6 @@
 	],
 
 	"update_check": false,
-	"save_on_focus_lost": true
+	"save_on_focus_lost": true,
+	"drag_text": false
 }
