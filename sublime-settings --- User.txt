@@ -9,5 +9,6 @@
 
 	"update_check": false,
 	"save_on_focus_lost": true,
-	"drag_text": false
+	"drag_text": false,
+	"color_scheme": "Monokai.sublime-color-scheme"
 }
