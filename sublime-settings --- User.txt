@@ -10,5 +10,7 @@
 	"update_check": false,
 	"save_on_focus_lost": true,
 	"drag_text": false,
-	"color_scheme": "Monokai.sublime-color-scheme"
+	"color_scheme": "Monokai.sublime-color-scheme",
+	"detect_indentation": true, 
+	"translate_tabs_to_spaces": false
 }
