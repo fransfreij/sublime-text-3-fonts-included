@@ -1,18 +1,13 @@
 {
+	"drag_text": false,
 	"font_face": "Source Code Pro",
 	"font_size": 10,
-
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-
-	"swallow_startup_errors": true,
-	"update_check": false,
 	"save_on_focus_lost": true,
-	"drag_text": false,
-	"color_scheme": "Monokai.sublime-color-scheme",
-	"detect_indentation": true, 
-	"translate_tabs_to_spaces": false
+	"update_check": false, 
+	"swallow_startup_errors": true, 
+	"detect_indentation": true
 }
-
